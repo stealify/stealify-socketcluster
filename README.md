@@ -1,7 +1,7 @@
 # stealify-socketcluster
 A SocketCluster (npm) Implamentation based on graaljs using stealify concepts has integrated: Apache Ignite,  Zookeeper
 
-Long years ago i spotted a Project called SocketCluster i was in love with it as i was new as they where working on stuff that i also did often (distributed messaging via websockets).
+Long years ago i spotted a Project called SocketCluster i was in love with it as i was a mid level JS coder they where working on stuff that i also did often (distributed messaging via websockets).
 
 They had a homepage with a nice documentation about the concepts and ideas behind the framework while the framework it self was not so well out of my view the concepts and toughts putted in was well.
 
